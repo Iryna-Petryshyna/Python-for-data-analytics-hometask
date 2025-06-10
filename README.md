@@ -1,2 +1,3 @@
 # Домашнє завдання з курсу Python для аналізу даних. 
-- `Копія_записника__Lecture_0_jupyter_demo_ipynb_.ipynb`- ознайомча частина 
+- `Копія_записника__Lecture_0_jupyter_demo_ipynb_.ipynb`- ознайомча частина
+- `hw_1_1_1_1_1_2_Cинтаксис_Python.ipynb` - Основи синтаксису Python
