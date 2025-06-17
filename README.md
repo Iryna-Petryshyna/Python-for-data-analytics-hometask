@@ -5,3 +5,4 @@
 - `Petryshyna_hw_1_2_1_Списки.ipynb` - ДЗ Списки
 - `Petryshyna_hw_1_2_3_Словники,_набори,_кортежі.ipynb` - ДЗ Словники, набори, кортежі
 - `Petryshyna_hw_1_2_4_If_else.ipynb` - ДЗ Control Flow 
+- `Petryshyna_hw_1_3_1_1_3_2_Цикл_for.ipynb` - ДЗ Цикл for
