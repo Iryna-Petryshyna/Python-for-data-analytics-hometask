@@ -9,3 +9,4 @@
 - `Petryshyna_hw_1_3_3_Comprehensions` - ДЗ Comprehension в Python
 - `Petryshyna_hw_1_3_4_Цикл_while`- ДЗ Цикл while
 - `Petryshyna_2_1_Функціїї_Основи.ipynb`- ДЗ Функції. Основи.
+- `Petryshyna_2_2_Функції_Продовження`- ДЗ Функції. Продовження.
