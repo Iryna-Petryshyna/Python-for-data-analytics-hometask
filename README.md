@@ -16,3 +16,4 @@
 - `Petryshyna_hw_3_2_Основи_роботи_з_даними_у_Pandas`- ДЗ: Основи роботи з даними у Pandas
 - `Petryshyna_hw_3_4_apply,_groupby,_pivot_table`- ДЗ: apply, groupby, pivot_table
 - `Petryshtna_HW1_Візуалізація_даних_з_Pandas_ipynb`-ДЗ: Візуалізація даних з Pandas
+- `Petryshtna_HW3_Статистичні_візуалізації_з_Seaborn`-ДЗ: Статистичні візуалізації з Seaborn
