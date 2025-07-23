@@ -17,3 +17,4 @@
 - `Petryshyna_hw_3_4_apply,_groupby,_pivot_table`- ДЗ: apply, groupby, pivot_table
 - `Petryshtna_HW1_Візуалізація_даних_з_Pandas_ipynb`-ДЗ: Візуалізація даних з Pandas
 - `Petryshtna_HW3_Статистичні_візуалізації_з_Seaborn`-ДЗ: Статистичні візуалізації з Seaborn
+- `Petryshyna_HW4_Інтерактивні_візуалізації_з_Plotly`-ДЗ: Інтерактивні візуалізації з Plotly
